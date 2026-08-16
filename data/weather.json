@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T05:54:54+09:00",
+  "generatedAt": "2026-08-17T06:42:37+09:00",
   "beaches": {
     "haeundae": {
       "name": "해운대해수욕장",
@@ -13,7 +13,7 @@
         "humidity": 100,
         "rain1h": 2,
         "precipitationType": "비",
-        "windSpeed": 1.7,
+        "windSpeed": 1.6,
         "observedAt": "2026-08-17T05:00+09:00"
       },
       "forecast": [
@@ -79,7 +79,7 @@
         "humidity": 100,
         "rain1h": 2,
         "precipitationType": "비",
-        "windSpeed": 1.7,
+        "windSpeed": 1.6,
         "observedAt": "2026-08-17T05:00+09:00"
       },
       "forecast": [
@@ -145,7 +145,7 @@
         "humidity": 100,
         "rain1h": 2,
         "precipitationType": "비",
-        "windSpeed": 1.7,
+        "windSpeed": 1.6,
         "observedAt": "2026-08-17T05:00+09:00"
       },
       "forecast": [
