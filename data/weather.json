@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T18:02:58+09:00",
+  "generatedAt": "2026-08-23T18:58:12+09:00",
   "beaches": {
     "haeundae": {
       "name": "해운대해수욕장",
@@ -9,12 +9,12 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 29.2,
-        "humidity": 86,
+        "temperature": 27.8,
+        "humidity": 89,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 0.4,
-        "observedAt": "2026-08-23T17:00+09:00"
+        "windSpeed": 0.9,
+        "observedAt": "2026-08-23T18:00+09:00"
       },
       "forecast": [
         {
@@ -75,12 +75,12 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 29.2,
-        "humidity": 86,
+        "temperature": 27.8,
+        "humidity": 89,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 0.4,
-        "observedAt": "2026-08-23T17:00+09:00"
+        "windSpeed": 0.9,
+        "observedAt": "2026-08-23T18:00+09:00"
       },
       "forecast": [
         {
@@ -141,12 +141,12 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 29.2,
-        "humidity": 86,
+        "temperature": 27.8,
+        "humidity": 89,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 0.4,
-        "observedAt": "2026-08-23T17:00+09:00"
+        "windSpeed": 0.9,
+        "observedAt": "2026-08-23T18:00+09:00"
       },
       "forecast": [
         {
@@ -207,12 +207,12 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 30.4,
-        "humidity": 75,
+        "temperature": 29.1,
+        "humidity": 81,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 3,
-        "observedAt": "2026-08-23T17:00+09:00"
+        "windSpeed": 3.1,
+        "observedAt": "2026-08-23T18:00+09:00"
       },
       "forecast": [
         {
@@ -273,12 +273,12 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 30.4,
-        "humidity": 75,
+        "temperature": 29.1,
+        "humidity": 81,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 3,
-        "observedAt": "2026-08-23T17:00+09:00"
+        "windSpeed": 3.1,
+        "observedAt": "2026-08-23T18:00+09:00"
       },
       "forecast": [
         {
@@ -339,12 +339,12 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 28.5,
-        "humidity": 86,
+        "temperature": 27.4,
+        "humidity": 92,
         "rain1h": 0,
         "precipitationType": "없음",
         "windSpeed": 1.2,
-        "observedAt": "2026-08-23T17:00+09:00"
+        "observedAt": "2026-08-23T18:00+09:00"
       },
       "forecast": [
         {
@@ -405,12 +405,12 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 28.5,
-        "humidity": 86,
+        "temperature": 27.4,
+        "humidity": 92,
         "rain1h": 0,
         "precipitationType": "없음",
         "windSpeed": 1.2,
-        "observedAt": "2026-08-23T17:00+09:00"
+        "observedAt": "2026-08-23T18:00+09:00"
       },
       "forecast": [
         {
