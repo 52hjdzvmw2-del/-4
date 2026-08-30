@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T19:00:13+09:00",
+  "generatedAt": "2026-08-30T19:12:04+09:00",
   "beaches": {
     "haeundae": {
       "name": "해운대해수욕장",
@@ -7,14 +7,14 @@
         "nx": 99,
         "ny": 75
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 27,
-        "humidity": 90,
+        "temperature": 26.4,
+        "humidity": 92,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 3.4,
-        "observedAt": "2026-08-30T17:00+09:00"
+        "windSpeed": 2.3,
+        "observedAt": "2026-08-30T18:00+09:00"
       },
       "forecast": [
         {
@@ -65,8 +65,7 @@
           "sky": "비",
           "precipitationType": "비"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "gwangalli": {
       "name": "광안리해수욕장",
@@ -74,14 +73,14 @@
         "nx": 99,
         "ny": 75
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 27,
-        "humidity": 90,
+        "temperature": 26.4,
+        "humidity": 92,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 3.4,
-        "observedAt": "2026-08-30T17:00+09:00"
+        "windSpeed": 2.3,
+        "observedAt": "2026-08-30T18:00+09:00"
       },
       "forecast": [
         {
@@ -132,8 +131,7 @@
           "sky": "비",
           "precipitationType": "비"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "songjeong": {
       "name": "송정해수욕장",
@@ -141,14 +139,14 @@
         "nx": 100,
         "ny": 76
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 27,
-        "humidity": 90,
+        "temperature": 26.4,
+        "humidity": 92,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 3.4,
-        "observedAt": "2026-08-30T17:00+09:00"
+        "windSpeed": 2.3,
+        "observedAt": "2026-08-30T18:00+09:00"
       },
       "forecast": [
         {
@@ -199,8 +197,7 @@
           "sky": "비",
           "precipitationType": "비"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "songdo": {
       "name": "송도해수욕장",
@@ -208,14 +205,14 @@
         "nx": 97,
         "ny": 73
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 29.5,
-        "humidity": 77,
+        "temperature": 28.8,
+        "humidity": 81,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 5.3,
-        "observedAt": "2026-08-30T17:00+09:00"
+        "windSpeed": 4.1,
+        "observedAt": "2026-08-30T18:00+09:00"
       },
       "forecast": [
         {
@@ -266,8 +263,7 @@
           "sky": "비",
           "precipitationType": "비"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "dadaepo": {
       "name": "다대포해수욕장",
@@ -275,14 +271,14 @@
         "nx": 96,
         "ny": 73
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 29.5,
-        "humidity": 77,
+        "temperature": 28.8,
+        "humidity": 81,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 5.3,
-        "observedAt": "2026-08-30T17:00+09:00"
+        "windSpeed": 4.1,
+        "observedAt": "2026-08-30T18:00+09:00"
       },
       "forecast": [
         {
@@ -333,8 +329,7 @@
           "sky": "비",
           "precipitationType": "비"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "ilgwang": {
       "name": "일광해수욕장",
@@ -342,14 +337,14 @@
         "nx": 101,
         "ny": 78
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 25.9,
-        "humidity": 92,
-        "rain1h": 0,
-        "precipitationType": "없음",
-        "windSpeed": 2.2,
-        "observedAt": "2026-08-30T17:00+09:00"
+        "temperature": 24.8,
+        "humidity": 99,
+        "rain1h": 1.5,
+        "precipitationType": "비",
+        "windSpeed": 1.2,
+        "observedAt": "2026-08-30T18:00+09:00"
       },
       "forecast": [
         {
@@ -400,8 +395,7 @@
           "sky": "비",
           "precipitationType": "비"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "imrang": {
       "name": "임랑해수욕장",
@@ -409,14 +403,14 @@
         "nx": 101,
         "ny": 79
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 25.9,
-        "humidity": 92,
-        "rain1h": 0,
-        "precipitationType": "없음",
-        "windSpeed": 2.2,
-        "observedAt": "2026-08-30T17:00+09:00"
+        "temperature": 24.8,
+        "humidity": 99,
+        "rain1h": 1.5,
+        "precipitationType": "비",
+        "windSpeed": 1.2,
+        "observedAt": "2026-08-30T18:00+09:00"
       },
       "forecast": [
         {
@@ -467,8 +461,7 @@
           "sky": "비",
           "precipitationType": "비"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     }
   },
   "source": {
