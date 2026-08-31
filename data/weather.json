@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T03:52:09+09:00",
+  "generatedAt": "2026-09-01T04:07:33+09:00",
   "beaches": {
     "haeundae": {
       "name": "해운대해수욕장",
@@ -13,7 +13,7 @@
         "humidity": 91,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 1.4,
+        "windSpeed": 1.8,
         "observedAt": "2026-09-01T03:00+09:00"
       },
       "forecast": [
@@ -79,7 +79,7 @@
         "humidity": 91,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 1.4,
+        "windSpeed": 1.8,
         "observedAt": "2026-09-01T03:00+09:00"
       },
       "forecast": [
@@ -145,7 +145,7 @@
         "humidity": 91,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 1.4,
+        "windSpeed": 1.8,
         "observedAt": "2026-09-01T03:00+09:00"
       },
       "forecast": [
@@ -207,11 +207,11 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 26,
-        "humidity": 83,
+        "temperature": 26.1,
+        "humidity": 81,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 1.2,
+        "windSpeed": 0.4,
         "observedAt": "2026-09-01T03:00+09:00"
       },
       "forecast": [
@@ -273,11 +273,11 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 26,
-        "humidity": 83,
+        "temperature": 26.1,
+        "humidity": 81,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 1.2,
+        "windSpeed": 0.4,
         "observedAt": "2026-09-01T03:00+09:00"
       },
       "forecast": [
@@ -343,7 +343,7 @@
         "humidity": 98,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 0.1,
+        "windSpeed": 1,
         "observedAt": "2026-09-01T03:00+09:00"
       },
       "forecast": [
@@ -409,7 +409,7 @@
         "humidity": 98,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 0.1,
+        "windSpeed": 1,
         "observedAt": "2026-09-01T03:00+09:00"
       },
       "forecast": [
