@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T09:46:41+09:00",
+  "generatedAt": "2026-09-03T10:00:10+09:00",
   "beaches": {
     "haeundae": {
       "name": "해운대해수욕장",
@@ -9,11 +9,11 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 27.4,
+        "temperature": 27.1,
         "humidity": 85,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 3.4,
+        "windSpeed": 4.2,
         "observedAt": "2026-09-03T09:00+09:00"
       },
       "forecast": [
@@ -75,11 +75,11 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 27.4,
+        "temperature": 27.1,
         "humidity": 85,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 3.4,
+        "windSpeed": 4.2,
         "observedAt": "2026-09-03T09:00+09:00"
       },
       "forecast": [
@@ -141,11 +141,11 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 27.4,
+        "temperature": 27.1,
         "humidity": 85,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 3.4,
+        "windSpeed": 4.2,
         "observedAt": "2026-09-03T09:00+09:00"
       },
       "forecast": [
@@ -211,7 +211,7 @@
         "humidity": 70,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 1.4,
+        "windSpeed": 1.5,
         "observedAt": "2026-09-03T09:00+09:00"
       },
       "forecast": [
@@ -277,7 +277,7 @@
         "humidity": 70,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 1.4,
+        "windSpeed": 1.5,
         "observedAt": "2026-09-03T09:00+09:00"
       },
       "forecast": [
@@ -339,8 +339,8 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 27.3,
-        "humidity": 82,
+        "temperature": 27.5,
+        "humidity": 81,
         "rain1h": 0,
         "precipitationType": "없음",
         "windSpeed": 1.8,
@@ -405,8 +405,8 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 27.3,
-        "humidity": 82,
+        "temperature": 27.5,
+        "humidity": 81,
         "rain1h": 0,
         "precipitationType": "없음",
         "windSpeed": 1.8,
