@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T01:25:42+09:00",
+  "generatedAt": "2026-09-04T01:42:17+09:00",
   "beaches": {
     "haeundae": {
       "name": "해운대해수욕장",
@@ -7,7 +7,7 @@
         "nx": 99,
         "ny": 75
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
         "temperature": 24.3,
         "humidity": 89,
@@ -65,8 +65,7 @@
           "sky": "맑음",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "gwangalli": {
       "name": "광안리해수욕장",
@@ -74,7 +73,7 @@
         "nx": 99,
         "ny": 75
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
         "temperature": 24.3,
         "humidity": 89,
@@ -132,8 +131,7 @@
           "sky": "맑음",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "songjeong": {
       "name": "송정해수욕장",
@@ -141,7 +139,7 @@
         "nx": 100,
         "ny": 76
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
         "temperature": 24.3,
         "humidity": 89,
@@ -199,8 +197,7 @@
           "sky": "맑음",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "songdo": {
       "name": "송도해수욕장",
@@ -208,7 +205,7 @@
         "nx": 97,
         "ny": 73
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
         "temperature": 25.5,
         "humidity": 78,
@@ -266,8 +263,7 @@
           "sky": "맑음",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "dadaepo": {
       "name": "다대포해수욕장",
@@ -275,7 +271,7 @@
         "nx": 96,
         "ny": 73
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
         "temperature": 25.5,
         "humidity": 78,
@@ -333,8 +329,7 @@
           "sky": "맑음",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "ilgwang": {
       "name": "일광해수욕장",
@@ -342,7 +337,7 @@
         "nx": 101,
         "ny": 78
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
         "temperature": 23.7,
         "humidity": 92,
@@ -400,8 +395,7 @@
           "sky": "흐림",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "imrang": {
       "name": "임랑해수욕장",
@@ -409,7 +403,7 @@
         "nx": 101,
         "ny": 79
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
         "temperature": 23.7,
         "humidity": 92,
@@ -467,8 +461,7 @@
           "sky": "흐림",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     }
   },
   "source": {
