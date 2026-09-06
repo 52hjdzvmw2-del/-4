@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T17:58:35+09:00",
+  "generatedAt": "2026-09-06T18:18:14+09:00",
   "beaches": {
     "haeundae": {
       "name": "해운대해수욕장",
@@ -275,7 +275,7 @@
         "nx": 96,
         "ny": 73
       },
-      "status": "ok",
+      "status": "stale",
       "current": {
         "temperature": 28.8,
         "humidity": 49,
@@ -333,7 +333,8 @@
           "sky": "비",
           "precipitationType": "비"
         }
-      ]
+      ],
+      "error": "weather unavailable"
     },
     "ilgwang": {
       "name": "일광해수욕장",
