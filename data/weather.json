@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T18:33:46+09:00",
+  "generatedAt": "2026-09-06T18:48:39+09:00",
   "beaches": {
     "haeundae": {
       "name": "해운대해수욕장",
@@ -141,7 +141,7 @@
         "nx": 100,
         "ny": 76
       },
-      "status": "ok",
+      "status": "stale",
       "current": {
         "temperature": 24.7,
         "humidity": 72,
@@ -199,7 +199,8 @@
           "sky": "비",
           "precipitationType": "비"
         }
-      ]
+      ],
+      "error": "weather unavailable"
     },
     "songdo": {
       "name": "송도해수욕장",
