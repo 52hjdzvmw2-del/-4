@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T06:57:20+09:00",
+  "generatedAt": "2026-09-11T07:16:17+09:00",
   "beaches": {
     "haeundae": {
       "name": "해운대해수욕장",
@@ -17,6 +17,30 @@
         "observedAt": "2026-09-11T06:00+09:00"
       },
       "forecast": [
+        {
+          "date": "20260911",
+          "time": "0300",
+          "temperature": 21,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20260911",
+          "time": "0400",
+          "temperature": 21,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20260911",
+          "time": "0500",
+          "temperature": 21,
+          "rainProbability": 20,
+          "sky": "구름많음",
+          "precipitationType": "없음"
+        },
         {
           "date": "20260911",
           "time": "0600",
@@ -39,30 +63,6 @@
           "temperature": 22,
           "rainProbability": 20,
           "sky": "구름많음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20260911",
-          "time": "0900",
-          "temperature": 23,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20260911",
-          "time": "1000",
-          "temperature": 24,
-          "rainProbability": 20,
-          "sky": "구름많음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20260911",
-          "time": "1100",
-          "temperature": 25,
-          "rainProbability": 0,
-          "sky": "맑음",
           "precipitationType": "없음"
         }
       ]
