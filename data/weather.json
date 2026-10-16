@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T22:53:34+09:00",
+  "generatedAt": "2026-10-17T02:53:49+09:00",
   "beaches": {
     "haeundae": {
       "name": "해운대해수욕장",
@@ -9,33 +9,17 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.9,
+        "temperature": 19.6,
         "humidity": 75,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 2,
-        "observedAt": "2026-10-16T22:00+09:00"
+        "windSpeed": 2.8,
+        "observedAt": "2026-10-17T02:00+09:00"
       },
       "forecast": [
         {
-          "date": "20261016",
-          "time": "2100",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2200",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2300",
+          "date": "20261017",
+          "time": "0300",
           "temperature": 19,
           "rainProbability": 0,
           "sky": "맑음",
@@ -43,7 +27,7 @@
         },
         {
           "date": "20261017",
-          "time": "0000",
+          "time": "0400",
           "temperature": 19,
           "rainProbability": 0,
           "sky": "맑음",
@@ -51,7 +35,7 @@
         },
         {
           "date": "20261017",
-          "time": "0100",
+          "time": "0500",
           "temperature": 19,
           "rainProbability": 0,
           "sky": "맑음",
@@ -59,8 +43,24 @@
         },
         {
           "date": "20261017",
-          "time": "0200",
+          "time": "0600",
           "temperature": 19,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0700",
+          "temperature": 19,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0800",
+          "temperature": 20,
           "rainProbability": 0,
           "sky": "맑음",
           "precipitationType": "없음"
@@ -75,33 +75,17 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.9,
+        "temperature": 19.6,
         "humidity": 75,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 2,
-        "observedAt": "2026-10-16T22:00+09:00"
+        "windSpeed": 2.8,
+        "observedAt": "2026-10-17T02:00+09:00"
       },
       "forecast": [
         {
-          "date": "20261016",
-          "time": "2100",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2200",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2300",
+          "date": "20261017",
+          "time": "0300",
           "temperature": 19,
           "rainProbability": 0,
           "sky": "맑음",
@@ -109,7 +93,7 @@
         },
         {
           "date": "20261017",
-          "time": "0000",
+          "time": "0400",
           "temperature": 19,
           "rainProbability": 0,
           "sky": "맑음",
@@ -117,7 +101,7 @@
         },
         {
           "date": "20261017",
-          "time": "0100",
+          "time": "0500",
           "temperature": 19,
           "rainProbability": 0,
           "sky": "맑음",
@@ -125,8 +109,24 @@
         },
         {
           "date": "20261017",
-          "time": "0200",
+          "time": "0600",
           "temperature": 19,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0700",
+          "temperature": 19,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0800",
+          "temperature": 20,
           "rainProbability": 0,
           "sky": "맑음",
           "precipitationType": "없음"
@@ -141,33 +141,17 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.9,
+        "temperature": 19.6,
         "humidity": 75,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 2,
-        "observedAt": "2026-10-16T22:00+09:00"
+        "windSpeed": 2.8,
+        "observedAt": "2026-10-17T02:00+09:00"
       },
       "forecast": [
         {
-          "date": "20261016",
-          "time": "2100",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2200",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2300",
+          "date": "20261017",
+          "time": "0300",
           "temperature": 19,
           "rainProbability": 0,
           "sky": "맑음",
@@ -175,15 +159,7 @@
         },
         {
           "date": "20261017",
-          "time": "0000",
-          "temperature": 19,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261017",
-          "time": "0100",
+          "time": "0400",
           "temperature": 19,
           "rainProbability": 0,
           "sky": "맑음",
@@ -191,10 +167,34 @@
         },
         {
           "date": "20261017",
-          "time": "0200",
+          "time": "0500",
           "temperature": 19,
-          "rainProbability": 30,
-          "sky": "흐림",
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0600",
+          "temperature": 18,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0700",
+          "temperature": 19,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0800",
+          "temperature": 20,
+          "rainProbability": 0,
+          "sky": "맑음",
           "precipitationType": "없음"
         }
       ]
@@ -207,41 +207,17 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.6,
-        "humidity": 57,
+        "temperature": 18.1,
+        "humidity": 68,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 1.3,
-        "observedAt": "2026-10-16T22:00+09:00"
+        "windSpeed": 2,
+        "observedAt": "2026-10-17T02:00+09:00"
       },
       "forecast": [
         {
-          "date": "20261016",
-          "time": "2100",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2200",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2300",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
           "date": "20261017",
-          "time": "0000",
+          "time": "0300",
           "temperature": 18,
           "rainProbability": 0,
           "sky": "맑음",
@@ -249,7 +225,7 @@
         },
         {
           "date": "20261017",
-          "time": "0100",
+          "time": "0400",
           "temperature": 18,
           "rainProbability": 0,
           "sky": "맑음",
@@ -257,8 +233,32 @@
         },
         {
           "date": "20261017",
-          "time": "0200",
+          "time": "0500",
           "temperature": 18,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0600",
+          "temperature": 18,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0700",
+          "temperature": 18,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0800",
+          "temperature": 20,
           "rainProbability": 0,
           "sky": "맑음",
           "precipitationType": "없음"
@@ -273,58 +273,58 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.6,
-        "humidity": 57,
+        "temperature": 18.1,
+        "humidity": 68,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 1.3,
-        "observedAt": "2026-10-16T22:00+09:00"
+        "windSpeed": 2,
+        "observedAt": "2026-10-17T02:00+09:00"
       },
       "forecast": [
         {
-          "date": "20261016",
-          "time": "2100",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2200",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2300",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
           "date": "20261017",
-          "time": "0000",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261017",
-          "time": "0100",
-          "temperature": 19,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261017",
-          "time": "0200",
+          "time": "0300",
           "temperature": 18,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0400",
+          "temperature": 18,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0500",
+          "temperature": 18,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0600",
+          "temperature": 18,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0700",
+          "temperature": 18,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0800",
+          "temperature": 20,
           "rainProbability": 0,
           "sky": "맑음",
           "precipitationType": "없음"
@@ -339,33 +339,17 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.7,
-        "humidity": 65,
+        "temperature": 18.8,
+        "humidity": 69,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 2.2,
-        "observedAt": "2026-10-16T22:00+09:00"
+        "windSpeed": 2.3,
+        "observedAt": "2026-10-17T02:00+09:00"
       },
       "forecast": [
         {
-          "date": "20261016",
-          "time": "2100",
-          "temperature": 18,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2200",
-          "temperature": 18,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2300",
+          "date": "20261017",
+          "time": "0300",
           "temperature": 18,
           "rainProbability": 0,
           "sky": "맑음",
@@ -373,24 +357,40 @@
         },
         {
           "date": "20261017",
-          "time": "0000",
+          "time": "0400",
           "temperature": 18,
-          "rainProbability": 30,
-          "sky": "흐림",
+          "rainProbability": 0,
+          "sky": "맑음",
           "precipitationType": "없음"
         },
         {
           "date": "20261017",
-          "time": "0100",
+          "time": "0500",
           "temperature": 18,
-          "rainProbability": 30,
-          "sky": "흐림",
+          "rainProbability": 0,
+          "sky": "맑음",
           "precipitationType": "없음"
         },
         {
           "date": "20261017",
-          "time": "0200",
+          "time": "0600",
           "temperature": 18,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0700",
+          "temperature": 18,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0800",
+          "temperature": 19,
           "rainProbability": 0,
           "sky": "맑음",
           "precipitationType": "없음"
@@ -405,33 +405,17 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.7,
-        "humidity": 65,
+        "temperature": 18.8,
+        "humidity": 69,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 2.2,
-        "observedAt": "2026-10-16T22:00+09:00"
+        "windSpeed": 2.3,
+        "observedAt": "2026-10-17T02:00+09:00"
       },
       "forecast": [
         {
-          "date": "20261016",
-          "time": "2100",
-          "temperature": 18,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2200",
-          "temperature": 18,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261016",
-          "time": "2300",
+          "date": "20261017",
+          "time": "0300",
           "temperature": 17,
           "rainProbability": 0,
           "sky": "맑음",
@@ -439,24 +423,40 @@
         },
         {
           "date": "20261017",
-          "time": "0000",
-          "temperature": 18,
-          "rainProbability": 30,
-          "sky": "흐림",
+          "time": "0400",
+          "temperature": 17,
+          "rainProbability": 0,
+          "sky": "맑음",
           "precipitationType": "없음"
         },
         {
           "date": "20261017",
-          "time": "0100",
+          "time": "0500",
           "temperature": 17,
-          "rainProbability": 30,
-          "sky": "흐림",
+          "rainProbability": 0,
+          "sky": "맑음",
           "precipitationType": "없음"
         },
         {
           "date": "20261017",
-          "time": "0200",
+          "time": "0600",
           "temperature": 17,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0700",
+          "temperature": 17,
+          "rainProbability": 0,
+          "sky": "맑음",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261017",
+          "time": "0800",
+          "temperature": 19,
           "rainProbability": 0,
           "sky": "맑음",
           "precipitationType": "없음"
