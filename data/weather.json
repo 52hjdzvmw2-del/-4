@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T03:39:57+09:00",
+  "generatedAt": "2026-10-25T06:12:59+09:00",
   "beaches": {
     "haeundae": {
       "name": "해운대해수욕장",
@@ -9,38 +9,14 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.7,
-        "humidity": 97,
-        "rain1h": 5,
+        "temperature": 18.4,
+        "humidity": 99,
+        "rain1h": 2.5,
         "precipitationType": "비",
-        "windSpeed": 2.9,
-        "observedAt": "2026-10-25T02:00+09:00"
+        "windSpeed": 2.6,
+        "observedAt": "2026-10-25T05:00+09:00"
       },
       "forecast": [
-        {
-          "date": "20261025",
-          "time": "0300",
-          "temperature": 19,
-          "rainProbability": 60,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0400",
-          "temperature": 19,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0500",
-          "temperature": 19,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
         {
           "date": "20261025",
           "time": "0600",
@@ -61,6 +37,30 @@
           "date": "20261025",
           "time": "0800",
           "temperature": 19,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "0900",
+          "temperature": 20,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1000",
+          "temperature": 20,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1100",
+          "temperature": 20,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
@@ -75,38 +75,14 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.7,
-        "humidity": 97,
-        "rain1h": 5,
+        "temperature": 18.4,
+        "humidity": 99,
+        "rain1h": 2.5,
         "precipitationType": "비",
-        "windSpeed": 2.9,
-        "observedAt": "2026-10-25T02:00+09:00"
+        "windSpeed": 2.6,
+        "observedAt": "2026-10-25T05:00+09:00"
       },
       "forecast": [
-        {
-          "date": "20261025",
-          "time": "0300",
-          "temperature": 19,
-          "rainProbability": 60,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0400",
-          "temperature": 19,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0500",
-          "temperature": 19,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
         {
           "date": "20261025",
           "time": "0600",
@@ -127,6 +103,30 @@
           "date": "20261025",
           "time": "0800",
           "temperature": 19,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "0900",
+          "temperature": 20,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1000",
+          "temperature": 20,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1100",
+          "temperature": 20,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
@@ -141,42 +141,18 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.7,
-        "humidity": 97,
-        "rain1h": 5,
+        "temperature": 18.4,
+        "humidity": 99,
+        "rain1h": 2.5,
         "precipitationType": "비",
-        "windSpeed": 2.9,
-        "observedAt": "2026-10-25T02:00+09:00"
+        "windSpeed": 2.6,
+        "observedAt": "2026-10-25T05:00+09:00"
       },
       "forecast": [
         {
           "date": "20261025",
-          "time": "0300",
-          "temperature": 19,
-          "rainProbability": 60,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0400",
-          "temperature": 19,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0500",
-          "temperature": 18,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
           "time": "0600",
-          "temperature": 18,
+          "temperature": 19,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
@@ -193,6 +169,30 @@
           "date": "20261025",
           "time": "0800",
           "temperature": 19,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "0900",
+          "temperature": 20,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1000",
+          "temperature": 20,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1100",
+          "temperature": 20,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
@@ -207,38 +207,14 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.2,
-        "humidity": 97,
-        "rain1h": 4.4,
+        "temperature": 18.3,
+        "humidity": 96,
+        "rain1h": 3.4,
         "precipitationType": "비",
-        "windSpeed": 2,
-        "observedAt": "2026-10-25T02:00+09:00"
+        "windSpeed": 1.5,
+        "observedAt": "2026-10-25T05:00+09:00"
       },
       "forecast": [
-        {
-          "date": "20261025",
-          "time": "0300",
-          "temperature": 18,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0400",
-          "temperature": 18,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0500",
-          "temperature": 18,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
         {
           "date": "20261025",
           "time": "0600",
@@ -259,6 +235,30 @@
           "date": "20261025",
           "time": "0800",
           "temperature": 19,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "0900",
+          "temperature": 20,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1000",
+          "temperature": 20,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1100",
+          "temperature": 20,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
@@ -273,38 +273,14 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.2,
-        "humidity": 97,
-        "rain1h": 4.4,
+        "temperature": 18.3,
+        "humidity": 96,
+        "rain1h": 3.4,
         "precipitationType": "비",
-        "windSpeed": 2,
-        "observedAt": "2026-10-25T02:00+09:00"
+        "windSpeed": 1.5,
+        "observedAt": "2026-10-25T05:00+09:00"
       },
       "forecast": [
-        {
-          "date": "20261025",
-          "time": "0300",
-          "temperature": 18,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0400",
-          "temperature": 18,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0500",
-          "temperature": 18,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
         {
           "date": "20261025",
           "time": "0600",
@@ -325,6 +301,30 @@
           "date": "20261025",
           "time": "0800",
           "temperature": 19,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "0900",
+          "temperature": 20,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1000",
+          "temperature": 20,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1100",
+          "temperature": 20,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
@@ -339,38 +339,14 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.3,
-        "humidity": 100,
-        "rain1h": 6.5,
+        "temperature": 18.4,
+        "humidity": 99,
+        "rain1h": 3.5,
         "precipitationType": "비",
-        "windSpeed": 2.1,
-        "observedAt": "2026-10-25T02:00+09:00"
+        "windSpeed": 1.4,
+        "observedAt": "2026-10-25T05:00+09:00"
       },
       "forecast": [
-        {
-          "date": "20261025",
-          "time": "0300",
-          "temperature": 19,
-          "rainProbability": 60,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0400",
-          "temperature": 18,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0500",
-          "temperature": 18,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
         {
           "date": "20261025",
           "time": "0600",
@@ -391,6 +367,30 @@
           "date": "20261025",
           "time": "0800",
           "temperature": 19,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "0900",
+          "temperature": 19,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1000",
+          "temperature": 20,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1100",
+          "temperature": 20,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
@@ -405,38 +405,14 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 18.3,
-        "humidity": 100,
-        "rain1h": 6.5,
+        "temperature": 18.4,
+        "humidity": 99,
+        "rain1h": 3.5,
         "precipitationType": "비",
-        "windSpeed": 2.1,
-        "observedAt": "2026-10-25T02:00+09:00"
+        "windSpeed": 1.4,
+        "observedAt": "2026-10-25T05:00+09:00"
       },
       "forecast": [
-        {
-          "date": "20261025",
-          "time": "0300",
-          "temperature": 18,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0400",
-          "temperature": 18,
-          "rainProbability": 70,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261025",
-          "time": "0500",
-          "temperature": 18,
-          "rainProbability": 60,
-          "sky": "비",
-          "precipitationType": "비"
-        },
         {
           "date": "20261025",
           "time": "0600",
@@ -457,6 +433,30 @@
           "date": "20261025",
           "time": "0800",
           "temperature": 18,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "0900",
+          "temperature": 19,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1000",
+          "temperature": 19,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261025",
+          "time": "1100",
+          "temperature": 20,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
