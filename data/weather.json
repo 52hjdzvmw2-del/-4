@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:35:23+09:00",
+  "generatedAt": "2026-11-08T10:49:02+09:00",
   "beaches": {
     "haeundae": {
       "name": "해운대해수욕장",
@@ -7,66 +7,65 @@
         "nx": 99,
         "ny": 75
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 6.2,
+        "temperature": 13,
         "humidity": 59,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 0.1,
-        "observedAt": "2026-11-08T03:00+09:00"
+        "windSpeed": 2.5,
+        "observedAt": "2026-11-08T10:00+09:00"
       },
       "forecast": [
         {
           "date": "20261108",
-          "time": "0300",
-          "temperature": 8,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0400",
-          "temperature": 8,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0500",
-          "temperature": 8,
+          "time": "0900",
+          "temperature": 12,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0600",
-          "temperature": 9,
+          "time": "1000",
+          "temperature": 14,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0700",
-          "temperature": 10,
+          "time": "1100",
+          "temperature": 15,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0800",
-          "temperature": 11,
+          "time": "1200",
+          "temperature": 15,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1300",
+          "temperature": 15,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1400",
+          "temperature": 15,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "gwangalli": {
       "name": "광안리해수욕장",
@@ -74,66 +73,65 @@
         "nx": 99,
         "ny": 75
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 6.2,
+        "temperature": 13,
         "humidity": 59,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 0.1,
-        "observedAt": "2026-11-08T03:00+09:00"
+        "windSpeed": 2.5,
+        "observedAt": "2026-11-08T10:00+09:00"
       },
       "forecast": [
         {
           "date": "20261108",
-          "time": "0300",
-          "temperature": 8,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0400",
-          "temperature": 8,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0500",
-          "temperature": 8,
+          "time": "0900",
+          "temperature": 12,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0600",
-          "temperature": 9,
+          "time": "1000",
+          "temperature": 14,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0700",
-          "temperature": 10,
+          "time": "1100",
+          "temperature": 15,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0800",
-          "temperature": 11,
+          "time": "1200",
+          "temperature": 15,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1300",
+          "temperature": 15,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1400",
+          "temperature": 15,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "songjeong": {
       "name": "송정해수욕장",
@@ -141,66 +139,65 @@
         "nx": 100,
         "ny": 76
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 6.2,
+        "temperature": 13,
         "humidity": 59,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 0.1,
-        "observedAt": "2026-11-08T03:00+09:00"
+        "windSpeed": 2.5,
+        "observedAt": "2026-11-08T10:00+09:00"
       },
       "forecast": [
         {
           "date": "20261108",
-          "time": "0300",
-          "temperature": 9,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0400",
-          "temperature": 9,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0500",
-          "temperature": 9,
+          "time": "0900",
+          "temperature": 12,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0600",
-          "temperature": 10,
+          "time": "1000",
+          "temperature": 14,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0700",
-          "temperature": 10,
+          "time": "1100",
+          "temperature": 15,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0800",
-          "temperature": 11,
+          "time": "1200",
+          "temperature": 15,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1300",
+          "temperature": 15,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1400",
+          "temperature": 15,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "songdo": {
       "name": "송도해수욕장",
@@ -208,66 +205,65 @@
         "nx": 97,
         "ny": 73
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 7.6,
-        "humidity": 33,
+        "temperature": 13,
+        "humidity": 49,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 0.1,
-        "observedAt": "2026-11-08T03:00+09:00"
+        "windSpeed": 2.2,
+        "observedAt": "2026-11-08T10:00+09:00"
       },
       "forecast": [
         {
           "date": "20261108",
-          "time": "0300",
-          "temperature": 8,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0400",
-          "temperature": 8,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0500",
-          "temperature": 8,
+          "time": "0900",
+          "temperature": 12,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0600",
-          "temperature": 8,
+          "time": "1000",
+          "temperature": 14,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0700",
-          "temperature": 9,
+          "time": "1100",
+          "temperature": 15,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0800",
-          "temperature": 10,
+          "time": "1200",
+          "temperature": 15,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1300",
+          "temperature": 15,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1400",
+          "temperature": 15,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "dadaepo": {
       "name": "다대포해수욕장",
@@ -275,66 +271,65 @@
         "nx": 96,
         "ny": 73
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 7.6,
-        "humidity": 33,
+        "temperature": 13,
+        "humidity": 49,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 0.1,
-        "observedAt": "2026-11-08T03:00+09:00"
+        "windSpeed": 2.2,
+        "observedAt": "2026-11-08T10:00+09:00"
       },
       "forecast": [
         {
           "date": "20261108",
-          "time": "0300",
-          "temperature": 7,
-          "rainProbability": 0,
-          "sky": "맑음",
+          "time": "0900",
+          "temperature": 12,
+          "rainProbability": 30,
+          "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0400",
-          "temperature": 7,
+          "time": "1000",
+          "temperature": 14,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1100",
+          "temperature": 15,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1200",
+          "temperature": 15,
           "rainProbability": 20,
           "sky": "구름많음",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0500",
-          "temperature": 7,
+          "time": "1300",
+          "temperature": 15,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0600",
-          "temperature": 8,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0700",
-          "temperature": 9,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0800",
-          "temperature": 10,
+          "time": "1400",
+          "temperature": 15,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "ilgwang": {
       "name": "일광해수욕장",
@@ -342,66 +337,65 @@
         "nx": 101,
         "ny": 78
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 7.5,
-        "humidity": 30,
+        "temperature": 13.5,
+        "humidity": 45,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 2.6,
-        "observedAt": "2026-11-08T03:00+09:00"
+        "windSpeed": 1.9,
+        "observedAt": "2026-11-08T10:00+09:00"
       },
       "forecast": [
         {
           "date": "20261108",
-          "time": "0300",
-          "temperature": 7,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0400",
-          "temperature": 8,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0500",
-          "temperature": 8,
-          "rainProbability": 20,
-          "sky": "구름많음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0600",
-          "temperature": 8,
+          "time": "0900",
+          "temperature": 12,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0700",
-          "temperature": 9,
+          "time": "1000",
+          "temperature": 13,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0800",
-          "temperature": 10,
+          "time": "1100",
+          "temperature": 14,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1200",
+          "temperature": 15,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1300",
+          "temperature": 15,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1400",
+          "temperature": 15,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     },
     "imrang": {
       "name": "임랑해수욕장",
@@ -409,66 +403,65 @@
         "nx": 101,
         "ny": 79
       },
-      "status": "stale",
+      "status": "ok",
       "current": {
-        "temperature": 7.5,
-        "humidity": 30,
+        "temperature": 13.5,
+        "humidity": 45,
         "rain1h": 0,
         "precipitationType": "없음",
-        "windSpeed": 2.6,
-        "observedAt": "2026-11-08T03:00+09:00"
+        "windSpeed": 1.9,
+        "observedAt": "2026-11-08T10:00+09:00"
       },
       "forecast": [
         {
           "date": "20261108",
-          "time": "0300",
-          "temperature": 7,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0400",
-          "temperature": 7,
-          "rainProbability": 0,
-          "sky": "맑음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0500",
-          "temperature": 7,
-          "rainProbability": 20,
-          "sky": "구름많음",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261108",
-          "time": "0600",
-          "temperature": 7,
+          "time": "0900",
+          "temperature": 11,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0700",
-          "temperature": 8,
+          "time": "1000",
+          "temperature": 13,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261108",
-          "time": "0800",
-          "temperature": 9,
+          "time": "1100",
+          "temperature": 14,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1200",
+          "temperature": 15,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1300",
+          "temperature": 15,
+          "rainProbability": 30,
+          "sky": "흐림",
+          "precipitationType": "없음"
+        },
+        {
+          "date": "20261108",
+          "time": "1400",
+          "temperature": 15,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         }
-      ],
-      "error": "weather unavailable"
+      ]
     }
   },
   "source": {
