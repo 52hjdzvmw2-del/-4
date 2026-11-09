@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T11:57:49+09:00",
+  "generatedAt": "2026-11-09T20:17:43+09:00",
   "beaches": {
     "haeundae": {
       "name": "해운대해수욕장",
@@ -9,58 +9,58 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 13.3,
-        "humidity": 78,
-        "rain1h": 0,
-        "precipitationType": "없음",
-        "windSpeed": 2.8,
-        "observedAt": "2026-11-09T11:00+09:00"
+        "temperature": 10.3,
+        "humidity": 91,
+        "rain1h": 1.5,
+        "precipitationType": "비",
+        "windSpeed": 3.1,
+        "observedAt": "2026-11-09T19:00+09:00"
       },
       "forecast": [
         {
           "date": "20261109",
-          "time": "1200",
-          "temperature": 14,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1300",
-          "temperature": 15,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1400",
-          "temperature": 14,
+          "time": "2100",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
           "date": "20261109",
-          "time": "1500",
-          "temperature": 14,
+          "time": "2200",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
           "date": "20261109",
-          "time": "1600",
-          "temperature": 13,
+          "time": "2300",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
-          "date": "20261109",
-          "time": "1700",
-          "temperature": 13,
+          "date": "20261110",
+          "time": "0000",
+          "temperature": 11,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0100",
+          "temperature": 12,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0200",
+          "temperature": 12,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
@@ -75,58 +75,58 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 13.3,
-        "humidity": 78,
-        "rain1h": 0,
-        "precipitationType": "없음",
-        "windSpeed": 2.8,
-        "observedAt": "2026-11-09T11:00+09:00"
+        "temperature": 10.3,
+        "humidity": 91,
+        "rain1h": 1.5,
+        "precipitationType": "비",
+        "windSpeed": 3.1,
+        "observedAt": "2026-11-09T19:00+09:00"
       },
       "forecast": [
         {
           "date": "20261109",
-          "time": "1200",
-          "temperature": 14,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1300",
-          "temperature": 15,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1400",
-          "temperature": 14,
+          "time": "2100",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
           "date": "20261109",
-          "time": "1500",
-          "temperature": 14,
+          "time": "2200",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
           "date": "20261109",
-          "time": "1600",
-          "temperature": 13,
+          "time": "2300",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
-          "date": "20261109",
-          "time": "1700",
-          "temperature": 13,
+          "date": "20261110",
+          "time": "0000",
+          "temperature": 11,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0100",
+          "temperature": 12,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0200",
+          "temperature": 12,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
@@ -141,57 +141,57 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 13.3,
-        "humidity": 78,
-        "rain1h": 0,
-        "precipitationType": "없음",
-        "windSpeed": 2.8,
-        "observedAt": "2026-11-09T11:00+09:00"
+        "temperature": 10.3,
+        "humidity": 91,
+        "rain1h": 1.5,
+        "precipitationType": "비",
+        "windSpeed": 3.1,
+        "observedAt": "2026-11-09T19:00+09:00"
       },
       "forecast": [
         {
           "date": "20261109",
-          "time": "1200",
-          "temperature": 14,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1300",
-          "temperature": 14,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1400",
-          "temperature": 14,
+          "time": "2100",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
           "date": "20261109",
-          "time": "1500",
-          "temperature": 14,
+          "time": "2200",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
           "date": "20261109",
-          "time": "1600",
-          "temperature": 13,
+          "time": "2300",
+          "temperature": 12,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
-          "date": "20261109",
-          "time": "1700",
+          "date": "20261110",
+          "time": "0000",
+          "temperature": 12,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0100",
+          "temperature": 12,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0200",
           "temperature": 12,
           "rainProbability": 60,
           "sky": "비",
@@ -207,57 +207,57 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 15,
-        "humidity": 66,
-        "rain1h": 0,
-        "precipitationType": "없음",
-        "windSpeed": 2.1,
-        "observedAt": "2026-11-09T11:00+09:00"
+        "temperature": 10,
+        "humidity": 92,
+        "rain1h": 1.2,
+        "precipitationType": "비",
+        "windSpeed": 0.7,
+        "observedAt": "2026-11-09T19:00+09:00"
       },
       "forecast": [
         {
           "date": "20261109",
-          "time": "1200",
-          "temperature": 14,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1300",
-          "temperature": 14,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1400",
-          "temperature": 14,
+          "time": "2100",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
           "date": "20261109",
-          "time": "1500",
-          "temperature": 13,
+          "time": "2200",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
           "date": "20261109",
-          "time": "1600",
-          "temperature": 13,
+          "time": "2300",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
-          "date": "20261109",
-          "time": "1700",
+          "date": "20261110",
+          "time": "0000",
+          "temperature": 11,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0100",
+          "temperature": 11,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0200",
           "temperature": 12,
           "rainProbability": 60,
           "sky": "비",
@@ -273,57 +273,57 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 15,
-        "humidity": 66,
-        "rain1h": 0,
-        "precipitationType": "없음",
-        "windSpeed": 2.1,
-        "observedAt": "2026-11-09T11:00+09:00"
+        "temperature": 10,
+        "humidity": 92,
+        "rain1h": 1.2,
+        "precipitationType": "비",
+        "windSpeed": 0.7,
+        "observedAt": "2026-11-09T19:00+09:00"
       },
       "forecast": [
         {
           "date": "20261109",
-          "time": "1200",
-          "temperature": 14,
+          "time": "2100",
+          "temperature": 11,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261109",
+          "time": "2200",
+          "temperature": 11,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
           "date": "20261109",
-          "time": "1300",
-          "temperature": 14,
+          "time": "2300",
+          "temperature": 11,
           "rainProbability": 30,
           "sky": "흐림",
           "precipitationType": "없음"
         },
         {
-          "date": "20261109",
-          "time": "1400",
-          "temperature": 14,
+          "date": "20261110",
+          "time": "0000",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
-          "date": "20261109",
-          "time": "1500",
-          "temperature": 13,
+          "date": "20261110",
+          "time": "0100",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
-          "date": "20261109",
-          "time": "1600",
-          "temperature": 13,
-          "rainProbability": 60,
-          "sky": "비",
-          "precipitationType": "비"
-        },
-        {
-          "date": "20261109",
-          "time": "1700",
+          "date": "20261110",
+          "time": "0200",
           "temperature": 12,
           "rainProbability": 60,
           "sky": "비",
@@ -339,58 +339,58 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 13.3,
-        "humidity": 71,
-        "rain1h": 0,
-        "precipitationType": "없음",
-        "windSpeed": 1.7,
-        "observedAt": "2026-11-09T11:00+09:00"
+        "temperature": 9.7,
+        "humidity": 95,
+        "rain1h": 1,
+        "precipitationType": "비",
+        "windSpeed": 1.2,
+        "observedAt": "2026-11-09T19:00+09:00"
       },
       "forecast": [
         {
           "date": "20261109",
-          "time": "1200",
-          "temperature": 14,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1300",
-          "temperature": 14,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1400",
-          "temperature": 13,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1500",
-          "temperature": 13,
+          "time": "2100",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
           "date": "20261109",
-          "time": "1600",
-          "temperature": 13,
+          "time": "2200",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
           "date": "20261109",
-          "time": "1700",
+          "time": "2300",
+          "temperature": 11,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0000",
+          "temperature": 11,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0100",
           "temperature": 12,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0200",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
@@ -405,58 +405,58 @@
       },
       "status": "ok",
       "current": {
-        "temperature": 13.3,
-        "humidity": 71,
-        "rain1h": 0,
-        "precipitationType": "없음",
-        "windSpeed": 1.7,
-        "observedAt": "2026-11-09T11:00+09:00"
+        "temperature": 9.7,
+        "humidity": 95,
+        "rain1h": 1,
+        "precipitationType": "비",
+        "windSpeed": 1.2,
+        "observedAt": "2026-11-09T19:00+09:00"
       },
       "forecast": [
         {
           "date": "20261109",
-          "time": "1200",
-          "temperature": 13,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1300",
-          "temperature": 13,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1400",
-          "temperature": 13,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1500",
-          "temperature": 13,
-          "rainProbability": 30,
-          "sky": "흐림",
-          "precipitationType": "없음"
-        },
-        {
-          "date": "20261109",
-          "time": "1600",
-          "temperature": 12,
+          "time": "2100",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
         },
         {
           "date": "20261109",
-          "time": "1700",
-          "temperature": 12,
+          "time": "2200",
+          "temperature": 11,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261109",
+          "time": "2300",
+          "temperature": 11,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0000",
+          "temperature": 11,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0100",
+          "temperature": 11,
+          "rainProbability": 60,
+          "sky": "비",
+          "precipitationType": "비"
+        },
+        {
+          "date": "20261110",
+          "time": "0200",
+          "temperature": 11,
           "rainProbability": 60,
           "sky": "비",
           "precipitationType": "비"
